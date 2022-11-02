@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+   border: 3px solid blueviolet;
+   
+   
+}
+tr, td, th{
+    width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 3px  solid blueviolet;
+   color: white;
+   text-align: center;
+   padding-top: 3vh;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 36vh;
+}
