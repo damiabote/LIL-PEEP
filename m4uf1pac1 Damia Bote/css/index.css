@@ -1,0 +1,33 @@
+#logo{
+    width: 50px;
+    height: 50px; 
+}
+
+aside>img{
+    width: 70vh;
+    height: 70vh;
+    float: left;
+    border: 2px double blueviolet;
+}
+#foto2{
+    float: right;
+}
+article{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+footer{
+    background-color: black;
+}
+footer{
+    padding-top: 9vh;
+}
+p{
+    padding-top: 5vh;
+}
+div{
+    padding: 1em;
+    background-color: black;
+}

@@ -1,0 +1,39 @@
+
+header{
+    text-align: center;
+}
+#logo{
+    width: 8vh;
+    height: 8vh; 
+}
+
+nav>a{
+    padding-right: 5vh;
+}
+section>div>img{
+    width: 51vh;
+    height: 51vh;
+    border-radius: 1vh;
+    border-color: blueviolet;
+    border-style: double;
+}
+
+#img1{
+    float: left;
+}
+#img2{
+    float: right;
+}
+
+div{
+    background-color: black;
+}
+section{
+    background-color: black;
+}
+footer>div{
+    padding-top: 54vh;
+}
+footer{
+    background-color: black;
+}

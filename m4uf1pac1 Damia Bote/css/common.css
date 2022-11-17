@@ -1,0 +1,40 @@
+
+*{
+    font-family:papyrus;
+    margin: 0%;
+    
+}
+
+nav > a{
+    color: blueviolet;
+    text-decoration:none
+}
+header{
+    text-align: center;
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    border-bottom: 2px solid white;
+    padding: 1em;
+}
+nav>a{
+    padding-right: 30px;
+}
+
+h2{
+    text-align: center;
+}
+article>p{
+    text-align: center;
+    color: blueviolet;
+}
+footer{
+    text-decoration: none;
+    padding-top: 160px;
+}
+h1{
+    color: white;
+}
